@@ -27,5 +27,5 @@ npm run dev
 
 Demo / Explanation
 A detailed screen recording explaining the structure, logic, and workflow of this project can be found here:
-Google Drive Video Link
+Google Drive Video Link https://drive.google.com/file/d/1jt8YV_87_YeQkICX6itBFIzO_W5bqThG/view?usp=sharing
 
