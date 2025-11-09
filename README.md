@@ -14,7 +14,7 @@ State Management: React Hooks (useState, useEffect)
 
 How to Run Locally
 # Clone this repository
-git clone https://github.com/<your-username>/taskapp-landing-page.git
+git clone [https://github.com/<your-username>/taskapp-landing-page.git](https://github.com/GauriManda/TaskPilot)
 
 # Navigate to the folder
 cd TaskPilot
